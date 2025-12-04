@@ -1,0 +1,31 @@
+{
+  "name": "ffggbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "fs-extra": "^11.3.2",
+    "node-cron": "^4.2.1",
+    "node-fetch": "^3.3.2",
+    "otplib": "^12.0.1",
+    "p-queue": "^9.0.1",
+    "pino": "^10.1.0",
+    "puppeteer": "^24.32.0",
+    "puppeteer-core": "^24.31.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "qrcode-terminal": "^0.12.0",
+    "readline": "^1.3.0"
+  }
+}
