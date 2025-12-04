@@ -9,7 +9,7 @@ const PUPPETEER_USER_DATA_DIR = process.env.PUPPETEER_USER_DATA_DIR || './puppet
 const SESSION_DIR = './session_fbot';
 const GROUP_JID = '120363403167481041@g.us';
 const FB_USERNAME = 'csgocasescom';
-const CHECK_INTERVAL = 180000;
+const CHECK_INTERVAL = 30;
 const PROCESSED_POSTS_FILE = './processed_posts_fb.json';
 
 let sock;
