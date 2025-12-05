@@ -6,7 +6,7 @@ const pino = require('pino');
 
 const PUPPETEER_USER_DATA_DIR = './puppeteer_data_ds';
 const SESSION_DIR = './session_dsbot';
-const GROUP_JID = '120363398848628801@g.us';  // ← Tu grupo actualizado
+const GROUP_JID = '120363403167481041@g.us';
 const GUILD_URL = 'https://discord.com/channels/1263461920791466055/1279122419994595361';
 const CHECK_INTERVAL = 180000; // 3 minutos
 const PROCESSED_FILE = './processed_discord_images.json';
